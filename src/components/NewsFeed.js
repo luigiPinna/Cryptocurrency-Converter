@@ -9,9 +9,9 @@ const NewsFeed = () => {
 
         var options = {
             method: 'GET',
-            url: 'https://crypto-news-live.p.rapidapi.com/news',
+            url: 'https://crypto-news6.p.rapidapi.com/news',
             headers: {
-                'x-rapidapi-host': 'crypto-news-live.p.rapidapi.com',
+                'x-rapidapi-host': 'crypto-news6.p.rapidapi.com',
                 'x-rapidapi-key': process.env.REACT_APP_RAPID_API_KEY
             }
         };
@@ -26,7 +26,7 @@ const NewsFeed = () => {
 
     console.log("articles",articles)
 
-    const firstSevenArticles = articles?.slice(20,40)
+    const firstSevenArticles = articles?.slice(60,80)
     console.log("7 articles",firstSevenArticles)
 
 
