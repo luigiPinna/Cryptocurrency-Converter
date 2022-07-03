@@ -1,6 +1,6 @@
-# Hosted by Firebase - free link:
+# Hosted by Firebase:
 
-Visit and try [Here](https://cryptocurrenciesconverter.web.app/)
+Visit and try here: [CriptocurrencyConverter](https://cryptocurrenciesconverter.web.app/)
 
 # Getting Started with Create React App
 
